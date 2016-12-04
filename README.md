@@ -1,2 +1,2 @@
 # Pagination-and-Content-Filter
-Pagination with Search Filter Implemenation using jQuery
+Pagination with Search Filter Implementation using jQuery
