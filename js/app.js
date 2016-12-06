@@ -34,7 +34,6 @@ function paginate() {
  
 paginate();
 
-
 //Shows the correct student list when button link is clicked
 $(".pageLinks").on("click", function() {
     
